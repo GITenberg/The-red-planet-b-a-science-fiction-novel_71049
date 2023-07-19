@@ -1,0 +1,47 @@
+_repo: The-red-planet-b-a-science-fiction-novel_71049
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brillhart, Ralph
+    alias: Brillhart, Ralph Winton
+    birthdate: 1924
+    deathdate: 2007
+    gutenberg_agent_id: '56058'
+    url: http://www.gutenberg.org/2009/agents/56058
+creator:
+  author:
+    agent_name: Winterbotham, R. R. (Russell Robert)
+    aliases:
+    - Winterbotham, Russell Robert
+    - Winterbotham, Russ
+    - Winterbotham, R.R.
+    birthdate: 1904
+    deathdate: 1971
+    gutenberg_agent_id: '25195'
+    url: http://www.gutenberg.org/2009/agents/25195
+    wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71049'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=ppt.ssfcbz202002001129&view=1up&seq=2
+pgterms:marc905: 20221212060755winterboth
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bMonarch Books, Inc., $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The red planet : $b a science fiction novel'
+url: http://www.gutenberg.org/ebooks/71049
